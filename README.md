@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/RonanVictor1)
+![](https://komarev.com/ghpvc/?username=RonanVictor1&color=blueviolet)
 <!--
 **RonanVictor1/RonanVictor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![RonanVictor1 github stats](https://github-readme-stats.vercel.app/api?username=RonanVictor1&show_icons=true&hide=issues&include_all_commits=true)](https://github.com/RonanVictor1) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonanVictor1&layout=compact)](https://github.com/RonanVictor1)
